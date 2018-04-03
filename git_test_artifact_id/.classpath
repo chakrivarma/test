@@ -22,5 +22,13 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chaitanyavarma.m.ANTHEMBIO/Downloads/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
