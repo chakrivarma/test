@@ -20,6 +20,7 @@ public class FindEvenWithoutModAndDivision {
 		}else {
 			System.out.println(temp+"=its not even number");
 		}
+		
 		num=temp;
 		
 		/**
